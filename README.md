@@ -7,8 +7,9 @@
 - Reconfig package.json project title (etc..)
 
 - Structure project folder:
-src/
-dist/
+```
+mkdir src && mkdir dist
+```
 
 - Init it
 ```
