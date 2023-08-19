@@ -8,7 +8,7 @@
 
 - Structure project folder:
 ```
-mkdir src && mkdir dist
+mkdir src
 ```
 
 - Init it
