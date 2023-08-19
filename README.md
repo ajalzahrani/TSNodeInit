@@ -11,18 +11,21 @@ src/
 dist/
 
 - Init it
-```npm install
+```
+npm install
 ```
 
 - Start tsc watch
-```npm run dev
+```
+npm run dev
 ```
 
 - Run app
-```npm run start
+```
+npm run start
 ```
 
 # Refereces #
 
-Matt Pocock youtube: https://www.youtube.com/watch?v=mSnDUMybZXk&t=2933s
-TS config bases: https://github.com/tsconfig/bases/blob/main/bases/node-lts.json
+- Matt Pocock youtube: https://www.youtube.com/watch?v=mSnDUMybZXk&t=2933s
+- TS config bases: https://github.com/tsconfig/bases/blob/main/bases/node-lts.json
